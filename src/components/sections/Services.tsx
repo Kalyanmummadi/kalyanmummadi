@@ -1,37 +1,37 @@
 
 import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
-import { Html, Css, Javascript, Database, React as ReactIcon, Node } from 'lucide-react';
+import { Code, FileCode, FileText, Database, FileJson, Server } from 'lucide-react';
 
 const Services = () => {
   const skillsData = [
     {
       name: "HTML",
-      icon: Html,
+      icon: FileCode,
       description: "Semantic markup structure for web applications",
       color: "#E34F26"
     },
     {
       name: "CSS",
-      icon: Css,
+      icon: FileText,
       description: "Responsive styling with modern techniques",
       color: "#1572B6"
     },
     {
       name: "JavaScript",
-      icon: Javascript,
+      icon: Code,
       description: "Dynamic frontend functionality and interactivity",
       color: "#F7DF1E"
     },
     {
       name: "React.js",
-      icon: ReactIcon,
+      icon: FileJson,
       description: "Building interactive UIs with component architecture",
       color: "#61DAFB"
     },
     {
       name: "Node.js",
-      icon: Node,
+      icon: Server,
       description: "Server-side JavaScript runtime environment",
       color: "#339933"
     },
