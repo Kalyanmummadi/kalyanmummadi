@@ -36,7 +36,7 @@ const Hero = ({ scrollToSection }: { scrollToSection: (id: string) => void }) =>
         <div className="flex justify-center items-center relative animate-fade-in">
           <div className="relative w-72 h-72 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-primary">
             <img 
-              src="/lovable-uploads/b5094c16-fadd-4c1a-a580-c44aa63e37ee.png" 
+              src="/lovable-uploads/46109c79-c169-4c9f-aa3c-fd684ddff5f0.png" 
               alt="Mummadi Kalyan" 
               className="absolute inset-0 w-full h-full object-cover"
             />
