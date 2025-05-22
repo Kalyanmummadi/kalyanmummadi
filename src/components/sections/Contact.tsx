@@ -74,7 +74,7 @@ const Contact = () => {
             
             <div className="mt-8 flex space-x-4">
               <a 
-                href="https://github.com/mummadikalyan" 
+                href="https://github.com/Kalyanmummadi" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-secondary hover:bg-primary hover:text-primary-foreground p-3 rounded-full transition-colors"
@@ -96,7 +96,7 @@ const Contact = () => {
                 </svg>
               </a>
               <a 
-                href="https://instagram.com/mummadikalyan" 
+                href="https://www.instagram.com/k_a_l_y_a_n02/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-secondary hover:bg-primary hover:text-primary-foreground p-3 rounded-full transition-colors"
