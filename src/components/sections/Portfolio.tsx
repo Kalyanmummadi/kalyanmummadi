@@ -24,7 +24,7 @@ const Portfolio = () => {
       title: "Password Manager App",
       description: "A secure application to manage and store passwords with user-centric design",
       technologies: ["React", "Node.js", "Express", "SQLite"],
-      image: "https://images.unsplash.com/photo-1588339527435-8b9f29bdd6c7?q=80&w=2070",
+      image: "https://up.yimg.com/ib/th?id=OIP.nCfGpvMs4G0gwzt9NTrlUgHaEK&pid=Api&rs=1&c=1&qlt=95&w=165&h=92",
       details: "The Password Manager application provides a secure way to store and manage passwords. Features include encryption, auto-generation of strong passwords, and category organization. User experience was prioritized with an intuitive interface and seamless interactions.",
       link: "#"
     },

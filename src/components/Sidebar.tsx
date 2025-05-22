@@ -70,8 +70,8 @@ const Sidebar = ({ activeSection, scrollToSection }: SidebarProps) => {
           </nav>
           
           <div className="mt-auto">
-            <a 
-              href="/resume.pdf" 
+            <a  
+              href="/kalyan_resume(2).pdf"  download="kalyan_resume(2).pdf"
               target="_blank" 
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full bg-secondary hover:bg-primary hover:text-primary-foreground flex items-center justify-center transition-all group"
